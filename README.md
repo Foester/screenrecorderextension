@@ -14,8 +14,11 @@ Installation
 To install and use this extension, follow the steps below:
 
 Clone this repository to your local machine or download it from this link https://chrome.google.com/webstore/detail/my-screen-recorder/aedhignmopjmfhnlbhimfmcbhmlfcjjf?hl=en-GB&authuser=0
+
 Open the Google Chrome browser and navigate to chrome://extensions/.
+
 Enable the "Developer mode" toggle located in the top right corner.
+
 Click the "Load unpacked" button and select the directory where you cloned this repository.
 
 Usage
@@ -23,9 +26,11 @@ Usage
 To start recording content from two screens, follow these steps:
 
 Click on the extension icon situated in the top right corner of the browser.
+
 Press the "Start Recording" button to initiate screen recording.
-Two extension tabs will open, each pinned and without titles, representing the two screens available for recording.
+
 Select the desired content on both screens that you wish to capture.
+
 To stop the recording, click on the "Stop Sharing" button.
 
 Problem Statement
