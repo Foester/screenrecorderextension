@@ -45,6 +45,6 @@ https://github.com/wireworks-app/chrome-screen-recording
 
 # License
 
-The Screen Recorder Chrome Extension is open-source and licensed under the MIT License. Feel free to contribute, modify, and use the extension as per the license terms.
+The Screen Recorder Chrome Extension is open-source and licensed under the AGPL-3.0 license. Feel free to contribute, modify, and use the extension as per the license terms.
 
 
